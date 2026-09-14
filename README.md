@@ -7,9 +7,19 @@
 
 Pune, India
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om29dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/om29dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ombharambe901@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/om29dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/om29dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:ombharambe901@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 </div>
 
@@ -33,22 +43,34 @@ I am an Information Technology student at PCCOE driven by a systems-first engine
 
 ### Tech Stack
 
-- **Languages:** Java, Python, C, C++, JavaScript, TypeScript, SQL, Bash, PowerShell, Dart, HTML5, CSS3
-- **Backend & APIs:** Spring Boot, Spring Security, FastAPI, Node.js, Express.js, REST APIs, Microservices, WebSockets
-- **Frontend & Web:** Next.js, React.js, Tailwind CSS, Vite, jQuery, Axios
-- **Mobile:** Flutter, Dart, Riverpod, Provider
-- **Databases & ORM:** PostgreSQL, MongoDB, Mongoose, SQLAlchemy
-- **Embedded Systems & IoT:** ESP32, STM32, Arduino, Raspberry Pi, MQTT
-- **Machine Learning & Edge AI:** PyTorch, Ollama, Hugging Face Transformers, OpenCV
-- **Cloud & DevOps:** AWS, GCP, Docker, Docker Compose, Kubernetes, Nix, CI/CD, Nginx
-- **Automation & Low-Code:** n8n, Google Sheets API, Webhooks
-- **OS & Environments:** Debian, Arch Linux, Ubuntu Server, Windows, systemd
-- **Tools & Platforms:** Git, GitHub, Postman, Firebase, VS Code, IntelliJ IDEA, Android Studio
+| Domain | Technologies, Frameworks & Tools |
+| :--- | :--- |
+| **Languages** | Java, Python, C, C++, JavaScript, TypeScript, Dart, SQL, Bash, PowerShell, HTML5, CSS3 |
+| **Backend & APIs** | Spring Boot, Spring Security, FastAPI, Node.js, Express.js, REST APIs, Microservices, WebSockets |
+| **Frontend & Web** | Next.js, React.js, Tailwind CSS, Vite, jQuery, Axios |
+| **Mobile Development** | Flutter, Dart, Riverpod, Provider |
+| **Databases & ORM** | PostgreSQL, MongoDB, Mongoose, SQLAlchemy, Firebase |
+| **Cloud & DevOps** | AWS, GCP, Docker, Docker Compose, Kubernetes, Nix, CI/CD, Nginx |
+| **Machine Learning & Edge AI** | PyTorch, Ollama, Hugging Face Transformers, OpenCV |
+| **Embedded Systems & IoT** | ESP32, STM32, Arduino, Raspberry Pi, MQTT |
+| **Automation & Low-Code** | n8n, Google Sheets API, Webhooks |
+| **OS & Environments** | Debian, Arch Linux, Ubuntu Server, Windows, systemd |
+| **Tools & Platforms** | Git, GitHub, Postman, VS Code, IntelliJ IDEA, Android Studio |
 
----
+<br>
 
-### Connect With Me
-
-- **Email:** [ombharambe901@gmail.com](mailto:ombharambe901@gmail.com)
-- **LinkedIn:** [linkedin.com/in/om29dev](https://www.linkedin.com/in/om29dev/)
-- **GitHub:** [github.com/om29dev](https://github.com/om29dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,ts,dart,bash,powershell&perline=9" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,spring,fastapi,nodejs,express,nextjs,react,vite&perline=9" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,tailwind,postgres,mongodb,firebase,aws,gcp,docker,kubernetes&perline=9" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nginx,pytorch,opencv,raspberrypi,arduino,debian,arch,ubuntu,windows&perline=9" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,postman,vscode,idea,androidstudio&perline=9" />
+</p>
