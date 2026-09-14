@@ -66,5 +66,3 @@ I focus on practical implementation, clean architecture, system reliability, and
 - Learning scalable system design and cloud-native development.
 - Improving software testing, performance evaluation, and deployment practices.
 - Exploring the integration of AI, IoT, and modern application architectures.
-
----
