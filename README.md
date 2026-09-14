@@ -35,7 +35,7 @@ I am an Information Technology student at PCCOE driven by a systems-first engine
 
 - **Backend & APIs:** Designing concurrent, contract-driven RESTful services and microservices with clean domain architecture.
 - **Web & Mobile:** Building full-stack web applications with React/Next.js and cross-platform mobile apps with Flutter.
-- **Data & Applied AI:** Managing relational schemas, document stores, and local model inference workflows with PyTorch and Ollama.
+- **Data & Applied AI:** Managing relational schemas, document stores, and local model inference workflows with PyTorch, Ollama.
 - **Cloud & Linux Systems:** Managing Debian and Arch environments, containerizing workloads, and orchestrating clusters.
 - **Embedded Systems & IoT:** Ingesting real-time sensor streams and telemetry pipelines from microcontrollers into the cloud.
 
@@ -60,17 +60,11 @@ I am an Information Technology student at PCCOE driven by a systems-first engine
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,ts,dart,bash,powershell&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,ts,dart,bash,powershell,html,css,spring&perline=12" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,spring,fastapi,nodejs,express,nextjs,react,vite&perline=9" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,nextjs,react,flutter,tailwind,vite,postgres,mongodb,firebase,aws&perline=12" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,tailwind,postgres,mongodb,firebase,aws,gcp,docker,kubernetes&perline=9" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nginx,pytorch,opencv,raspberrypi,arduino,debian,arch,ubuntu,windows&perline=9" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,postman,vscode,idea,androidstudio&perline=9" />
+  <img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,nginx,pytorch,opencv,raspberrypi,arduino,debian,arch,ubuntu,windows&perline=12" />
 </p>
