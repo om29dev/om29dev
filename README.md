@@ -1,11 +1,9 @@
 <div align="center">
 
-# Om Bharambe
+<h1>Om Bharambe</h1>
 
-**Software Development Engineer | Backend & Cloud Systems**  
-*Building scalable services, distributed APIs, and cloud-native solutions.*
-
-Pune, India
+<strong>Aspiring Software Development Engineer | Backend & Cloud Systems</strong><br>
+<em>Building practical software systems, reliable APIs, and cloud-ready applications.</em>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/om29dev/">
@@ -27,44 +25,46 @@ Pune, India
 
 ### About Me
 
-I am an Information Technology student at PCCOE driven by a systems-first engineering mindset: exploring how software operates under the hood, eliminating bottlenecks, and delivering reliable software from scratch. My focus centers on architecting resilient backend systems, low-latency RESTful APIs, and cross-platform clients, with hands-on experience bridging the physical and cloud layers through embedded hardware telemetry, modern containerized infrastructure, and applied local AI inference.
+I am an Information Technology student at **Pimpri Chinchwad College of Engineering (PCCOE)** and an aspiring Software Development Engineer with a strong interest in backend engineering, cloud systems, and full-stack application development.
+
+I enjoy understanding how software works under the hood, designing maintainable APIs, working with databases, and building reliable systems from the ground up. My interests also extend to cross-platform mobile development, embedded systems, IoT, and applied AI.
+
+I focus on practical implementation, clean architecture, system reliability, and continuous improvement through testing, performance evaluation, and iterative development.
 
 ---
 
 ### Core Capabilities
 
-- **Backend & APIs:** Designing concurrent, contract-driven RESTful services and microservices with clean domain architecture.
-- **Web & Mobile:** Building full-stack web applications with React/Next.js and cross-platform mobile apps with Flutter.
-- **Data & Applied AI:** Managing relational schemas, document stores, and local model inference workflows with PyTorch, Ollama.
-- **Cloud & Linux Systems:** Managing Debian and Arch environments, containerizing workloads, and orchestrating clusters.
-- **Embedded Systems & IoT:** Ingesting real-time sensor streams and telemetry pipelines from microcontrollers into the cloud.
+- **Backend Engineering:** Building maintainable RESTful APIs, backend services, and modular application architectures.
+- **Web & Mobile Development:** Developing full-stack web applications with React and Next.js, along with cross-platform mobile applications using Flutter.
+- **Databases & Data:** Working with relational databases, document databases, schema design, and data-access layers.
+- **Cloud & DevOps:** Containerizing applications, working with Linux environments, and exploring cloud infrastructure, deployment, and orchestration.
+- **Applied AI:** Exploring local model inference, computer vision, and practical machine learning workflows.
+- **Embedded Systems & IoT:** Integrating microcontrollers, sensors, communication protocols, and telemetry pipelines.
 
 ---
 
-### Tech Stack
-
-| Domain | Technologies, Frameworks & Tools |
-| :--- | :--- |
-| **Languages** | Java, Python, C, C++, JavaScript, TypeScript, Dart, SQL, Bash, PowerShell, HTML5, CSS3 |
-| **Backend & APIs** | Spring Boot, Spring Security, FastAPI, Node.js, Express.js, REST APIs, Microservices, WebSockets |
-| **Frontend & Web** | Next.js, React.js, Tailwind CSS, Vite, jQuery, Axios |
-| **Mobile Development** | Flutter, Dart, Riverpod, Provider |
-| **Databases & ORM** | PostgreSQL, MongoDB, Mongoose, SQLAlchemy, Firebase |
-| **Cloud & DevOps** | AWS, GCP, Docker, Docker Compose, Kubernetes, Nix, CI/CD, Nginx |
-| **Machine Learning & Edge AI** | PyTorch, Ollama, Hugging Face Transformers, OpenCV |
-| **Embedded Systems & IoT** | ESP32, STM32, Arduino, Raspberry Pi, MQTT |
-| **Automation & Low-Code** | n8n, Google Sheets API, Webhooks |
-| **OS & Environments** | Debian, Arch Linux, Ubuntu Server, Windows, systemd |
-| **Tools & Platforms** | Git, GitHub, Postman, VS Code, IntelliJ IDEA, Android Studio |
-
-<br>
+### Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,ts,dart,bash,powershell,html,css,spring&perline=12" />
+  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,js,ts,dart,bash,powershell,html,css,spring&perline=12" alt="Programming languages and Spring icons" />
 </p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,nextjs,react,flutter,tailwind,vite,postgres,mongodb,firebase,aws&perline=12" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,nextjs,react,flutter,tailwind,vite,postgres,mongodb,firebase,aws&perline=12" alt="Backend, frontend, mobile, database, and cloud icons" />
 </p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,nginx,pytorch,opencv,raspberrypi,arduino,debian,arch,ubuntu,windows&perline=12" />
+  <img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,nginx,pytorch,opencv,raspberrypi,arduino,debian,arch,ubuntu,windows&perline=12" alt="Cloud, DevOps, AI, embedded systems, and operating system icons" />
 </p>
+
+---
+
+### Current Focus
+
+- Strengthening backend development and API design skills.
+- Learning scalable system design and cloud-native development.
+- Improving software testing, performance evaluation, and deployment practices.
+- Exploring the integration of AI, IoT, and modern application architectures.
+
+---
