@@ -15,7 +15,7 @@
 🧑‍💻 Exploring AI/ML and cloud technologies.  
 🚀 Building practical projects and learning system design.  
 🛠️ Working with Node.js, FastAPI, Flutter, and modern development tools.  
-☁️ Interested in scalable applications, cloud infrastructure, and distributed systems.  
+☁️ Interested in cloud, scalability, and distributed systems.  
 🤝 Open to collaborations and open-source contributions.
 
 ### 🌐 Connect with me
@@ -27,6 +27,9 @@
   <a href="https://www.linkedin.com/in/om29dev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+ <a href="mailto:ombharambe29@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 </p>
 
 ### 📊 GitHub Statistics
