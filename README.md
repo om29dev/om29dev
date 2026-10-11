@@ -35,14 +35,14 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img width="43%" src="https://github-stats-extended.vercel.app/api?username=om29dev&hide_rank=true&theme=github_dark&hide_border=true" alt="GitHub statistics"/> &ensp;
-  <img width="34%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=om29dev&layout=compact&langs_count=8&count_weight=.8&theme=github_dark&hide_border=true" alt="Most used languages by repository"/>
+  <img width="54%" src="https://github-stats-extended.vercel.app/api?username=om29dev&hide_rank=true&theme=github_dark&hide_border=true" alt="GitHub statistics"/> &ensp;
+  <img width="43%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=om29dev&layout=compact&langs_count=8&count_weight=.8&theme=github_dark&hide_border=true" alt="Most used languages by repository"/>
 </p>
 
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img width="50%" src="https://streak-stats.demolab.com?user=om29dev&theme=github_dark&hide_border=true" alt="GitHub contribution streak"/>
+  <img width="60%" src="https://streak-stats.demolab.com?user=om29dev&theme=github_dark&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
 <p align="center">
