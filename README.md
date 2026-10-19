@@ -10,13 +10,13 @@
      height="270"
      src="https://media.giphy.com/media/m2Q7FEc0bEr4I/giphy.gif">
 
-🎓 Pursuing B.Tech in Information Technology at PCCOE, Pune.  
-💻 Interested in backend, full-stack, and mobile development.  
-🧑‍💻 Exploring AI/ML and cloud technologies.  
-🚀 Building practical projects and learning system design.  
-🛠️ Working with Node.js, FastAPI, Flutter, and modern development tools.  
-☁️ Interested in cloud, scalability, and distributed systems.  
-🤝 Open to collaborations and open-source contributions.
+- Pursuing B.Tech in Information Technology at PCCOE, Pune.  
+- Interested in backend, full-stack, and mobile development.  
+- Exploring AI/ML and cloud technologies.  
+- Building practical projects and learning system design.  
+- Working with Node.js, FastAPI, Flutter, and modern development tools.  
+- Interested in cloud, scalability, and distributed systems.  
+- Open to collaborations and open-source contributions.
 
 ### 🌐 Connect with me
 
