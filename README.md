@@ -1,4 +1,4 @@
- <h1 align="center">Hey, I'm Om 👋</h1>
+<h1 align="center">Hey, I'm Om 👋</h1>
 <h3 align="center">Software Development | Backend & Cloud Systems | AI Enthusiast</h3>
 
 <p align="center">
@@ -16,21 +16,25 @@
 - Building practical projects and learning system design.  
 - Working with Node.js, FastAPI, Flutter, and modern development tools.  
 - Interested in cloud, scalability, and distributed systems.  
-- Open to collaborations and open-source contributions.
+- Open to collaborations and open-source contributions.  
+- Portfolio: [om29dev.github.io](https://om29dev.github.io)
 
 ### 🌐 Connect with me
 
 <p align="left">
+  <a href="https://om29dev.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/om29dev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ombharambe29@gmail.com">
-   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
- </a>
- <a href="https://wa.me/918421936775">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
-   <a href="https://x.com/om29dev">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wa.me/918421936775">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://x.com/om29dev">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
