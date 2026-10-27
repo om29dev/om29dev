@@ -15,6 +15,7 @@
      height="270"
      src="https://media.giphy.com/media/m2Q7FEc0bEr4I/giphy.gif">
 
+
 - Pursuing B.Tech in Information Technology at PCCOE, Pune.  
 - Interested in backend, full-stack, and mobile development.  
 - Exploring AI/ML and cloud technologies.  
